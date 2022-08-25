@@ -1,0 +1,9 @@
+.DS_Store
+.DS_Store?
+*.DS_Store
+**/.DS_Store
+README_2.md
+teste-gitignore.txt
+.env
+pasta-que-nao-que
+*.pem
